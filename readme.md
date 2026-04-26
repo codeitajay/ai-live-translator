@@ -28,14 +28,16 @@ intelligent learning systems.
 - NumPy for basic audio volume checking
 
 ## Project Structure
-
+```
 ai-live-translator/
 ├── main.py
-├── README.md
 ├── requirements.txt
-├── screenshots/
-│   └── demo.png
-
+├── README.md
+├── .gitignore
+└── screenshots/
+    ├── 1.png
+    └── 2.png
+```
 ## How It Works
 
 1. The user clicks `Start`.
