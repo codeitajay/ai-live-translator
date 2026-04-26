@@ -25,7 +25,7 @@ with Whisper, translates it into English, and shows both results in a simple UI.
 
 ```text
 .
-├── live.py           # Main application code
+├── main.py           # Main application code
 ├── requirements.txt  # Python dependencies
 ├── readme.md         # Project documentation
 └── temp.wav          # Optional/generated audio file, ignored by Git
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 Run the app:
 
 ```bash
-python live.py
+python main.py
 ```
 
 ## Notes
@@ -70,7 +70,7 @@ python live.py
 - On macOS, allow microphone access when the system asks for permission.
 - Whisper may need FFmpeg installed on your machine.
 - The app currently translates to English because `target_lang = "en"` in
-  `live.py`.
+  `main.py`.
 - Accuracy depends on microphone quality, background noise, and speaker clarity.
 
 ## Limitations
