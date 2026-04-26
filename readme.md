@@ -2,7 +2,13 @@
 A real-time AI system that converts multilingual speech into English subtitles with a modern desktop interface.
 A desktop app that listens to speech from your microphone, converts it to text
 with Whisper, translates it into English, and shows both results in a simple UI.
-
+## Motivation
+As an international student studying Japanese in Tokyo, 
+I personally experienced the language barrier in learning 
+environments. This project explores how AI speech recognition 
+and translation can make multilingual education more accessible 
+connecting to my broader research interest in AI-powered 
+intelligent learning systems.
 ## Features
 
 - Records short microphone chunks
