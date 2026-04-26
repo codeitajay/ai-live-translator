@@ -34,7 +34,7 @@ ai-live-translator/
 ├── README.md
 ├── requirements.txt
 ├── screenshots/
-│   └── 1.png,2.png
+│   └── demo.png
 
 ## How It Works
 
