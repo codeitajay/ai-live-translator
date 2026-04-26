@@ -1,5 +1,5 @@
 # AI Live Translator
-
+A real-time AI system that converts multilingual speech into English subtitles with a modern desktop interface.
 A desktop app that listens to speech from your microphone, converts it to text
 with Whisper, translates it into English, and shows both results in a simple UI.
 
