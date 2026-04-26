@@ -1,0 +1,7 @@
+# Installed package name for OpenAI Whisper.
+# The Python import in live.py is still: import whisper
+openai-whisper
+sounddevice
+googletrans==4.0.0-rc1
+customtkinter
+numpy
