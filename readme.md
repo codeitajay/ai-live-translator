@@ -29,13 +29,12 @@ intelligent learning systems.
 
 ## Project Structure
 
-```text
-.
-├── main.py           # Main application code
-├── requirements.txt  # Python dependencies
-├── readme.md         # Project documentation
-└── temp.wav          # Optional/generated audio file, ignored by Git
-```
+ai-live-translator/
+├── main.py
+├── README.md
+├── requirements.txt
+├── screenshots/
+│   └── 1.png,2.png
 
 ## How It Works
 
